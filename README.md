@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Naziya Sumara.
 - 👀 I’m interested in WebDev.
 - 🌱 I’m currently learning MERN stack development.
-- 📫 How to reach me naziyasumara2004@gmail.com
+  
 
 
 
