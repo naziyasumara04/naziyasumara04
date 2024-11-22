@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Naziya Sumara.
-- 👀 I’m interested in WebDev.
-- 🌱 I’m currently learning MERN stack development.
+
   
 
 
